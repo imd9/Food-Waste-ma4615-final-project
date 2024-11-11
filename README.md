@@ -1,4 +1,4 @@
-# MA[46]15 Final Project
+# MA[46]15 Final Project - The A-Team
 ## Links for the final page and the app:
 ### page: https://thee-a-team.netlify.app/
 ### ShinyApp: https://duran.shinyapps.io/thee_a_team/
