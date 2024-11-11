@@ -1,4 +1,7 @@
 # MA[46]15 Final Project
+## Links for the final page and the app:
+### page: https://thee-a-team.netlify.app/
+### ShinyApp: https://duran.shinyapps.io/thee_a_team/
 
 **Make sure to read the full README file below, all pages and posts on your initial site, and look through the files in the `content` folder and the `config.toml` file.**
 
